@@ -1,0 +1,33 @@
+_repo: Poems-by-Adam-Lindsay-Gordon_258
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gordon, Adam Lindsay
+    birthdate: 1833
+    deathdate: 1870
+    gutenberg_agent_id: '145'
+    url: http://www.gutenberg.org/2009/agents/145
+    wikipedia: http://en.wikipedia.org/wiki/Adam_Lindsay_Gordon
+  editor:
+    agent_name: Clarke, Marcus Andrew Hislop
+    birthdate: 1846
+    deathdate: 1881
+    gutenberg_agent_id: '1193'
+    url: http://www.gutenberg.org/2009/agents/1193
+    wikipedia: http://en.wikipedia.org/wiki/Marcus_Clarke
+description: ''
+gutenberg_issued: '2008-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '258'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gordon, Adam Lindsay, 1833-1870'
+- !lcsh 'Australia -- Poetry'
+- !lcc 'PR'
+- GITenberg
+title: Poems by Adam Lindsay Gordon
+url: http://www.gutenberg.org/ebooks/258
